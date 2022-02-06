@@ -1,6 +1,6 @@
 import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
+import java.servlet.*;
+import java.servlet.http.*;
 import java.util.ResourceBundle;
 
 public class IdendityExample extends HttpServlet {
